@@ -1,0 +1,21 @@
+{
+  "name": "precision-timestamp",
+  "version": "0.1.0",
+  "description": "Generates a timestamp down to the microsecond",
+  "main": "index.js",
+  "repository": "stdtrace/precision-timestamp",
+  "author": "Josh Junon <junon@zeit.co>",
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "lint": "xo"
+  },
+  "optionalDependencies": {
+    "microtime": "2.1.6"
+  },
+  "devDependencies": {
+    "xo": "^0.18.2"
+  }
+}
