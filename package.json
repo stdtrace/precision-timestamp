@@ -13,9 +13,9 @@
     "lint": "xo"
   },
   "optionalDependencies": {
-    "microtime": "2.1.6"
+    "microtime": "3.0.0"
   },
   "devDependencies": {
-    "xo": "^0.18.2"
+    "xo": "0.24.0"
   }
 }
