@@ -1,6 +1,6 @@
 {
   "name": "precision-timestamp",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Generates a timestamp down to the microsecond",
   "main": "index.js",
   "repository": "stdtrace/precision-timestamp",
